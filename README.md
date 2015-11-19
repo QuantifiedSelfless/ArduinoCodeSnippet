@@ -11,11 +11,9 @@ npm install express
 
 ##Usage
 
-**TODO: Fritzing Diagram**
-
 Set your arduino up as such:
 
-![alt tag](http://i.imgur.com/YtFxIw5.jpg)
+![alt tag](/images/Arduino_Setup.png)
 
 
 Run Arduino-Server.js with **node Arduino-Server.js**
